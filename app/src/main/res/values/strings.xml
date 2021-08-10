@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MeowDraw</string>
+    <string name="image">image</string>
+    <string name="image_small">image_small</string>
+    <string name="medium">medium</string>
+    <string name="large">large</string>
+    <string name="brush_image">Brush Image</string>
+    <string name="gallery_image">Gallery Image</string>
+    <string name="undo_image">Undo Image</string>
+    <string name="save_image">Save Image</string>
+</resources>
